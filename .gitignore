@@ -1,0 +1,12 @@
+#
+# ssh/ folder
+#
+
+ssh/.ssh/keys
+ssh/.ssh/known_hosts
+
+#
+# fish/ folder
+#
+
+fish/.config/fish/fish_variables
