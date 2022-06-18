@@ -1,7 +1,0 @@
-[Desktop Entry]
-Exec=find ~/.ssh/ -type f -not -iregex '.*\.pub' -exec ssh-add {} +
-StartupNotify=false
-Terminal=false
-TerminalOptions=
-Type=Application
-X-DBUS-StartupType=unique

@@ -1,6 +1,0 @@
-[submodule "Nord/nord-tilix"]
-	path = Nord/nord-tilix
-	url = https://github.com/arcticicestudio/nord-tilix.git
-[submodule "Nord/nord-sublime-text"]
-	path = Nord/nord-sublime-text
-	url = https://github.com/arcticicestudio/nord-sublime-text.git
